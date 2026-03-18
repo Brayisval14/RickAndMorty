@@ -70,7 +70,7 @@ const showDetails = (id) => {
             details.style.display = 'block';
             title.textContent = 'Detalle';
 
-            history.pushState({ id }, '', #character-${id});
+        
         });
 };
 
